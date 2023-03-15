@@ -994,3 +994,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.15-20.42.49:795][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
 [2023.03.15-20.42.49:800][  0]LogUdpMessaging: Display: Added local interface '192.168.0.106' to multicast group '230.0.0.1:6666'
 [2023.03.15-20.42.52:657][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 1B31AEA34BF88A4CDB5C899EC5254B23 | Instance: E0E434114B46EF4D23B98EA87056C363 (DESKTOP-F488TFD-13872).
+[2023.03.15-20.43.01:327][  0]LogPython: Using Python 3.9.7
+[2023.03.15-20.43.04:188][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.03.15-20.43.04:227][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2023.03.15-20.43.06:665][  0]SourceControl: Source control is disabled
+[2023.03.15-20.43.06:718][  0]SourceControl: Source control is disabled
+[2023.03.15-20.43.06:927][  0]SourceControl: Source control is disabled
+[2023.03.15-20.43.06:951][  0]LogUProjectInfo: Found projects:
