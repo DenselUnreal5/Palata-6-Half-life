@@ -977,3 +977,22 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.15-20.42.30:127][  0]LogMeshReduction: No distributed automatic mesh merging module available
 [2023.03.15-20.42.30:127][  0]LogMeshMerging: No distributed automatic mesh merging module available
 [2023.03.15-20.42.33:806][  0]LogNetVersion: Konkurs 1.0.0, NetCL: 23058290, EngineNetVer: 30, GameNetVer: 0 (Checksum: 3520374845)
+[2023.03.15-20.42.44:471][  0]LogUObjectArray: 20936 objects as part of root set at end of initial load.
+[2023.03.15-20.42.44:471][  0]LogUObjectAllocator: 5786376 out of 0 bytes used by permanent object pool.
+[2023.03.15-20.42.44:471][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.15-20.42.44:890][  0]LogSlate: Border
+[2023.03.15-20.42.44:890][  0]LogSlate: BreadcrumbButton
+[2023.03.15-20.42.44:890][  0]LogSlate: Brushes.Title
+[2023.03.15-20.42.44:890][  0]LogSlate: Default
+[2023.03.15-20.42.44:890][  0]LogSlate: Icons.Save
+[2023.03.15-20.42.44:890][  0]LogSlate: Icons.Toolbar.Settings
+[2023.03.15-20.42.44:890][  0]LogSlate: ListView
+[2023.03.15-20.42.44:890][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.03.15-20.42.44:890][  0]LogSlate: SoftwareCursor_Grab
+[2023.03.15-20.42.44:890][  0]LogSlate: TableView.DarkRow
+[2023.03.15-20.42.44:890][  0]LogSlate: TableView.Row
+[2023.03.15-20.42.44:890][  0]LogSlate: TreeView
+[2023.03.15-20.42.49:180][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-F488TFD: (Name=DESKTOP-F488TFD, Type=Computer, Status=Valid, , Flags="Device_InstallSoftwareValid")
+[2023.03.15-20.42.49:180][  0]LogFileManager: Warning: Error deleting file: D:/Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Intermediate/TurnkeyReport_1.log (Error Code 2)
+[2023.03.15-20.42.53:118][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.03.15-20.42.53:308][  0]LogMetasoundEngine: MetaSound Engine Initialized

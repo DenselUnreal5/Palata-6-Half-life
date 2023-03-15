@@ -974,3 +974,23 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.15-20.42.30:127][  0]LogMeshReduction: No distributed automatic mesh merging module available
 [2023.03.15-20.42.30:127][  0]LogMeshMerging: No distributed automatic mesh merging module available
 [2023.03.15-20.42.33:806][  0]LogNetVersion: Konkurs 1.0.0, NetCL: 23058290, EngineNetVer: 30, GameNetVer: 0 (Checksum: 3520374845)
+[2023.03.15-20.42.44:471][  0]LogUObjectArray: 20936 objects as part of root set at end of initial load.
+[2023.03.15-20.42.44:471][  0]LogUObjectAllocator: 5786384 out of 0 bytes used by permanent object pool.
+[2023.03.15-20.42.44:471][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.15-20.42.44:890][  0]LogSlate: Border
+[2023.03.15-20.42.44:890][  0]LogSlate: BreadcrumbButton
+[2023.03.15-20.42.44:890][  0]LogSlate: Brushes.Title
+[2023.03.15-20.42.44:890][  0]LogSlate: Default
+[2023.03.15-20.42.44:890][  0]LogSlate: Icons.Save
+[2023.03.15-20.42.44:890][  0]LogSlate: Icons.Toolbar.Settings
+[2023.03.15-20.42.44:890][  0]LogSlate: ListView
+[2023.03.15-20.42.44:890][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.03.15-20.42.44:890][  0]LogSlate: SoftwareCursor_Grab
+[2023.03.15-20.42.44:890][  0]LogSlate: TableView.DarkRow
+[2023.03.15-20.42.44:890][  0]LogSlate: TableView.Row
+[2023.03.15-20.42.44:890][  0]LogSlate: TreeView
+[2023.03.15-20.42.49:180][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-F488TFD: (Name=DESKTOP-F488TFD, Type=Computer, Status=Valid, , Flags="Device_InstallSoftwareValid")
+[2023.03.15-20.42.49:568][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.15-20.42.49:795][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.15-20.42.49:800][  0]LogUdpMessaging: Display: Added local interface '192.168.0.106' to multicast group '230.0.0.1:6666'
+[2023.03.15-20.42.52:657][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 1B31AEA34BF88A4CDB5C899EC5254B23 | Instance: E0E434114B46EF4D23B98EA87056C363 (DESKTOP-F488TFD-13872).
