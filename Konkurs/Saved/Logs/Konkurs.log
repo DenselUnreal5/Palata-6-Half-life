@@ -825,3 +825,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.15-20.41.17:054][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MOLEX/AppData/Local/Temp/UnrealShaderWorkingDir/72A0155840D48AA533733E86E8618EC8/'.
 [2023.03.15-20.41.17:163][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 [2023.03.15-20.41.17:163][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2023.03.15-20.41.43:137][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2023.03.15-20.41.43:179][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.03.15-20.41.46:774][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.15-20.41.46:867][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.15-20.41.49:059][  0]LogAssetRegistry: FAssetRegistry took 0.0818 seconds to start up
+[2023.03.15-20.41.49:507][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.03.15-20.41.52:865][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
