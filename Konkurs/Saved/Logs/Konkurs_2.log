@@ -1001,3 +1001,162 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.15-20.43.06:718][  0]SourceControl: Source control is disabled
 [2023.03.15-20.43.06:927][  0]SourceControl: Source control is disabled
 [2023.03.15-20.43.06:951][  0]LogUProjectInfo: Found projects:
+[2023.03.15-20.43.11:915][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.15-20.43.15:333][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.15-20.43.15:432][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.15-20.43.15:432][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.15-20.43.15:900][  0]LogCollectionManager: Loaded 0 collections in 0.002203 seconds
+[2023.03.15-20.43.15:903][  0]LogFileCache: Scanning file cache for directory 'D:/Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Saved/Collections/' took 0.00s
+[2023.03.15-20.43.15:906][  0]LogFileCache: Scanning file cache for directory 'D:/Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Content/Developers/MOLEX/Collections/' took 0.00s
+[2023.03.15-20.43.15:910][  0]LogFileCache: Scanning file cache for directory 'D:/Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Content/Collections/' took 0.00s
+[2023.03.15-20.43.19:593][  0]LogEngine: Initializing Engine...
+[2023.03.15-20.43.20:078][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.03.15-20.43.20:113][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.019 s
+[2023.03.15-20.43.20:163][  0]LogMaterial: Display: Missing cached shadermap for WireframeMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 0E9698C4697E872CBAA750A81F13B17C7CEA9AAD), compiling. Is special engine material.
+[2023.03.15-20.43.20:168][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: F94896208BB2C48320F28BA2B200D9B09C2924D7), compiling. Is special engine material.
+[2023.03.15-20.43.20:173][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationUnlitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: C69B3513A9BCE1B5877E8C1F14F444F2E516C54A), compiling. Is special engine material.
+[2023.03.15-20.43.20:244][  0]LogMaterial: Display: Missing cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_SM6, Default, SM6 (DDC key hash: 6A6B6CA42A1CFE73D98380E44359090BD1019353), compiling. Is special engine material.
+[2023.03.15-20.43.20:248][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 7860C6F9C70533941C3C28714AFF4744F9ACB6BC), compiling. Is special engine material.
+[2023.03.15-20.43.20:253][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationUnlitMateri in PCD3D_SM6, Default, SM6 (DDC key hash: 8163769FA55201E2D8B7175BC0E56F9348F0AC32), compiling. Is special engine material.
+[2023.03.15-20.43.20:574][  0]LogTexture: Display: Waiting for textures to be ready 1/29 (/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq) ...
+[2023.03.15-20.43.20:625][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.15-20.43.21:165][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-20.43.21:814][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.15-20.43.22:299][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.15-20.43.22:335][  0]LogInit: Texture streaming: Enabled
+[2023.03.15-20.43.23:173][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.1.1-23901901+++UE5+Release-5.1
+[2023.03.15-20.43.27:392][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.15-20.43.27:410][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.15-20.43.27:411][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.15-20.43.27:414][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2023.03.15-20.43.27:416][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2023.03.15-20.43.27:416][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2023.03.15-20.43.27:416][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2023.03.15-20.43.27:416][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2023.03.15-20.43.27:416][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.15-20.43.27:416][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.15-20.43.27:416][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.15-20.43.27:416][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.15-20.43.27:416][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.15-20.43.27:416][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.15-20.43.27:416][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.15-20.43.27:416][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.15-20.43.27:416][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.15-20.43.27:416][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.15-20.43.27:417][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.15-20.43.27:417][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.15-20.43.27:417][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.15-20.43.27:430][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.15-20.43.27:470][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.15-20.43.27:470][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.15-20.43.27:473][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.15-20.43.27:473][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.15-20.43.27:479][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.03.15-20.43.27:479][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.15-20.43.27:481][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.15-20.43.27:481][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.03.15-20.43.27:481][  0]LogInit: FAudioDevice initialized.
+[2023.03.15-20.43.27:481][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.15-20.43.27:655][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.03.15-20.43.27:752][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.03.15-20.43.27:753][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.03.15-20.43.28:258][  0]LogLiveCoding: Display: Detected running instance in process group "UE_Konkurs_0x9857284f", connecting to console process (PID: 14680)
+[2023.03.15-20.43.28:258][  0]LogLiveCoding: Display: Waiting for server
+[2023.03.15-20.43.29:749][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.03.15-20.43.30:166][  0]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Saved/Config/WindowsEditor/Compat.ini', retrying in .5s...
+[2023.03.15-20.43.30:667][  0]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.03.15-20.43.30:712][  0]LogInit: Transaction tracking system initialized
+[2023.03.15-20.43.31:189][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Saved/SourceControl/UncontrolledChangelists.json
+[2023.03.15-20.43.31:189][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2023.03.15-20.43.31:235][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.012287 seconds (Found 115 uncontrolled assets)
+[2023.03.15-20.43.31:600][  0]BlueprintLog: New page: Editor Load
+[2023.03.15-20.43.32:966][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Saved/LocalizationServiceSettings8FB1AA4143242CEB937EF9A934511B8F.tmp' to '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.03.15-20.43.33:466][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Saved/LocalizationServiceSettings8FB1AA4143242CEB937EF9A934511B8F.tmp' to '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.03.15-20.43.33:968][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Saved/LocalizationServiceSettings8FB1AA4143242CEB937EF9A934511B8F.tmp' to '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.03.15-20.43.34:469][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Saved/LocalizationServiceSettings8FB1AA4143242CEB937EF9A934511B8F.tmp' to '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.03.15-20.43.34:969][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Saved/LocalizationServiceSettings8FB1AA4143242CEB937EF9A934511B8F.tmp' to '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.03.15-20.43.35:470][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Saved/LocalizationServiceSettings8FB1AA4143242CEB937EF9A934511B8F.tmp' to '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.03.15-20.43.35:971][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Saved/LocalizationServiceSettings8FB1AA4143242CEB937EF9A934511B8F.tmp' to '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.03.15-20.43.36:472][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Saved/LocalizationServiceSettings8FB1AA4143242CEB937EF9A934511B8F.tmp' to '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.03.15-20.43.36:974][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Saved/LocalizationServiceSettings8FB1AA4143242CEB937EF9A934511B8F.tmp' to '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.03.15-20.43.37:475][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Saved/LocalizationServiceSettings8FB1AA4143242CEB937EF9A934511B8F.tmp' to '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.03.15-20.43.38:017][  0]LogFileManager: Error: Error moving file '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Saved/LocalizationServiceSettings8FB1AA4143242CEB937EF9A934511B8F.tmp' to '../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini'.
+[2023.03.15-20.43.38:017][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini]
+[2023.03.15-20.43.38:020][  0]LocalizationService: Localization service is disabled
+[2023.03.15-20.43.38:056][  0]TimingProfiler: Initialize
+[2023.03.15-20.43.38:056][  0]TimingProfiler: OnSessionChanged
+[2023.03.15-20.43.38:056][  0]LoadingProfiler: Initialize
+[2023.03.15-20.43.38:056][  0]LoadingProfiler: OnSessionChanged
+[2023.03.15-20.43.38:056][  0]NetworkingProfiler: Initialize
+[2023.03.15-20.43.38:056][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.15-20.43.38:056][  0]MemoryProfiler: Initialize
+[2023.03.15-20.43.38:056][  0]MemoryProfiler: OnSessionChanged
+[2023.03.15-20.43.38:501][  0]LogFileCache: Scanning file cache for directory 'D:/Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Content/' took 0.01s
+[2023.03.15-20.43.38:584][  0]LogEditorDomain: Display: Class /Script/AnimationData.AnimationSequencerDataModel is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+[2023.03.15-20.43.40:655][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.03.15-20.43.42:690][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.15-20.43.42:739][  0]SourceControl: Source control is disabled
+[2023.03.15-20.43.42:765][  0]LogUnrealEdMisc: Loading editor; pre map load, took 185.713
+[2023.03.15-20.43.42:871][  0]Cmd: MAP LOAD FILE="../../../../../Vadim/my project/Project/Ward No. 6 project/Palata-6-Half-life/Konkurs/Content/StarterContent/Maps/Konkurs.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.03.15-20.43.42:942][  0]LightingResults: New page: Lighting Build
+[2023.03.15-20.43.43:078][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-20.43.43:195][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-20.43.43:237][  0]MapCheck: New page: Map Check
+[2023.03.15-20.43.43:237][  0]LightingResults: New page: Lighting Build
+[2023.03.15-20.43.43:597][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.15-20.43.43:923][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.03.15-20.43.47:304][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Button_sound...
+[2023.03.15-20.43.47:361][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave RangeHood_sound...
+[2023.03.15-20.43.47:410][  0]LogDerivedDataCache: C:/Users/MOLEX/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/MOLEX/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyAudio/04/65/6d8c1cd9268c6cc8a7f213558d0e5a0ce81a.udd from 'Unknown Context'.
+[2023.03.15-20.43.47:617][  0]LogAudio: Display: Chunk size for SoundWave /Game/Sound/Button_sound/Button_sound.Button_sound: 262144
+[2023.03.15-20.43.47:623][  0]LogDerivedDataCache: C:/Users/MOLEX/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/MOLEX/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/46/41/299fb6062986ffdf4c7c9f0cafe60a1f6c8f.udd from '/Game/Sound/Button_sound/Button_sound.Button_sound'.
+[2023.03.15-20.43.47:624][  0]LogDerivedDataCache: C:/Users/MOLEX/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/MOLEX/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/29/bb/43fb2d7bed32a87526b9caa686898c9ea2fe.udd from '/Game/Sound/Button_sound/Button_sound.Button_sound'.
+[2023.03.15-20.43.47:666][  0]LogAudio: Display: Chunk size for SoundWave /Game/Sound/Range_hood_sound/RangeHood_sound.RangeHood_sound: 262144
+[2023.03.15-20.43.47:674][  0]LogDerivedDataCache: C:/Users/MOLEX/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/MOLEX/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/74/fb/9037799e7170911685fbc8ce21bb308f2ae1.udd from '/Game/Sound/Range_hood_sound/RangeHood_sound.RangeHood_sound'.
+[2023.03.15-20.43.47:677][  0]LogDerivedDataCache: C:/Users/MOLEX/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/MOLEX/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/a5/ed/9645d3c4c841d699345741b884f0b62df3ed.udd from '/Game/Sound/Range_hood_sound/RangeHood_sound.RangeHood_sound'.
+[2023.03.15-20.43.47:871][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Konkurs'.
+[2023.03.15-20.43.48:168][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.15-20.43.48:168][  0]LogAIModule: Creating AISystem for world Konkurs
+[2023.03.15-20.43.48:198][  0]LogDerivedDataCache: C:/Users/MOLEX/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/MOLEX/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/BulkDataList/8c/a8/c583ee98bf1214c30c3f540e7d3bf9d8dbd6.udd from '/Game/Sound/Range_hood_sound/RangeHood_sound'.
+[2023.03.15-20.43.48:393][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.03.15-20.43.48:430][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.15-20.43.48:449][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 19,687ms to complete.
+[2023.03.15-20.43.48:463][  0]LogFileHelpers: Loading map 'Konkurs' took 5.621
+[2023.03.15-20.43.49:182][  0]LogUnrealEdMisc: Total Editor Startup Time, took 192.141
+[2023.03.15-20.43.49:182][  0]LogShaderCompilers: Display: ================================================
+[2023.03.15-20.43.49:182][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.15-20.43.49:182][  0]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.03.15-20.43.49:182][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.15-20.43.49:182][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.15-20.43.49:182][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.15-20.43.49:182][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.15-20.43.49:182][  0]LogShaderCompilers: Display: Jobs assigned 4, completed 0 (0.00%)
+[2023.03.15-20.43.49:182][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.24 s
+[2023.03.15-20.43.49:182][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.15-20.43.49:182][  0]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.15-20.43.49:182][  0]LogShaderCompilers: Display: ================================================
+[2023.03.15-20.43.50:817][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-20.43.50:872][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-20.43.50:879][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-20.43.50:887][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-20.43.53:191][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Library/UE_5.1/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.03.15-20.43.53:224][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Library/UE_5.1/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.03.15-20.43.53:357][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Library/UE_5.1/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.03.15-20.43.53:404][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Library/UE_5.1/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.03.15-20.43.53:482][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Library/UE_5.1/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.03.15-20.43.53:620][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Library/UE_5.1/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.03.15-20.43.53:665][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Library/UE_5.1/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.03.15-20.43.53:667][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Library/UE_5.1/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.03.15-20.43.53:680][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Library/UE_5.1/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.03.15-20.43.53:688][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Library/UE_5.1/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.03.15-20.43.56:048][  0]LogSlate: Took 0.039609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.15-20.43.56:124][  0]LogSlate: Took 0.037826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.15-20.43.56:139][  0]LogSlate: Took 0.014545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.15-20.43.56:182][  0]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (0.448 seconds, threshold is 0.300 s), will parallelize next time.
+[2023.03.15-20.43.56:198][  0]LogViewport: Scene viewport resized to 1359x902, mode Windowed.
+[2023.03.15-20.43.59:557][  0]LogStall: Startup...
+[2023.03.15-20.43.59:560][  0]LogStall: Startup complete.
+[2023.03.15-20.44.01:008][  0]LogLoad: (Engine Initialization) Total time: 203.97 seconds
+[2023.03.15-20.44.01:008][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.15-20.44.01:039][  0]LogEditorViewport: Clicking Background
